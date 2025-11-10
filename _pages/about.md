@@ -28,67 +28,58 @@ Designed a flexible task scheduler for a heterogeneous system running PointNet++
 I am designing template-mapped CGRA compilers for mainstream AI workloads using static operator templates, reducing configuration complexity, enabling puzzle-like reuse and composition of computational modules.
 
 # 📝 Publications 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">DAC 2026</div>
-      <img src='images/500x300.png' alt="DAC" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [A CGRA with SIMD](#)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    **<u>Y. Liu</u>**
+[A CGRA with SIMD]
 
-    *Design Automation Conference (DAC), 2026 (In preparation)*
+**<u>Y. Liu</u>**
 
-    <details>
-      <summary>Abstract</summary>
-      Abstract placeholder...
-    </details>
-  </div>
+*Design Automation Conference (DAC), 2026 (In preparation)*
+
+<details>
+<summary>Abstract</summary>
+Abstract placeholder...
+
+</details>
+
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2026</div>
-      <img src='images/500x300.png' alt="CVPR" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [KV Cache for Point Transformer](#)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    **<u>Y. Wu</u>**, Z. Guo, **<u>Y. Liu</u>**, C. Zhou
+[KV Cache for Point Transformer]
 
-    *CVPR, 2026*
+**<u>Y. Wu</u>**, Z. Guo, **<u>Y. Liu</u>**, C. Zhou
 
-    <details>
-      <summary>Abstract</summary>
-      Abstract placeholder...
-    </details>
-  </div>
+*CVPR, 2026 (In preparation)*
+
+<details>
+<summary>Abstract</summary>
+Abstract placeholder...
+
+</details>
+
+</div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ISCAS 2025</div>
-      <img src='images/500x300.png' alt="ISCAS" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [Qubit-State Discrimination using Neural Networks with Rapid and Energy-Efficient Compute Arrays](#)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    **<u>Y. Liu</u>**, Y. S. Chong, B. Lienhard, M. Fan, W. L. Goh, V. P. Nambiar, and A. T. Do
+[Qubit-State Discrimination using Neural Networks with Rapid and Energy-Efficient Compute Arrays]
 
-    *IEEE International Symposium on Circuits and Systems (ISCAS), 2025*
+**<u>Y. Liu</u>**, Y. S. Chong, B. Lienhard, M. Fan, W. L. Goh, V. P. Nambiar, and A. T. Do
 
-    <details>
-      <summary>Abstract</summary>
-      Abstract placeholder...
-    </details>
-  </div>
+*IEEE International Symposium on Circuits and Systems (ISCAS), 2025*
+
+<details>
+<summary>Abstract</summary>
+Abstract placeholder...
+
+</details>
+
+</div>
 </div>
 
 # 🎖 Honors and Awards
