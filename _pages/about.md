@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master’s student in Electronic Engineering at Nanyang Technological University. I am also a research assistant at the Institute of Microelectronics (IME), A*STAR, supervised by Prof. Wang Ling Goh and Prof. An Tuan Do. I received the Bachelor degree of Bachelor of Electronic Information Engineering from Wuhan University, Wuhan, China, in Jul. 2020. My research interest is hardware–software co-design to improve system efficiency. You can find more information through my CV.
+I am currently a Master’s student in Electronic Engineering at Nanyang Technological University. I once served as a research assistant at the Institute of Microelectronics (IME), A*STAR, supervised by Prof. Wang Ling Goh and Prof. An Tuan Do. I received the Bachelor degree of Bachelor of Electronic Information Engineering from Wuhan University, Wuhan, China, in Jul. 2020. My research interest is hardware–software co-design to improve system efficiency. You can find more information through my CV.
 
 # 🧭 Research Tracks
 
