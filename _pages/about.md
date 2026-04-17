@@ -96,7 +96,7 @@ Neural networks (NNs) implemented on field-programmable gate arrays (FPGAs) prov
 </div>
 
 # 🔬 Project
-<div class='paper-box'><div class='paper-box-image'></div><img src='images/publication/Fornax.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publication/Fornax.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fornax: A Lightweight, Energy-Efficient Diffusion Model Accelerator Chip]
