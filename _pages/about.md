@@ -24,7 +24,7 @@ I am currently a Master’s student in Electronic Engineering at Nanyang Technol
 Research interests in high-performance computing architectures, efficient hardware acceleration, and task scheduling.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/pace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2026</div><img src='images/publication/pace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A CGRA with SIMD and AGU]
@@ -42,7 +42,7 @@ Coarse-Grained Reconfigurable Arrays (CGRAs) balance low power and flexible comp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publication/fractal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/publication/fractal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fractal-Inspired Techniques for High-Resolution Image Generation]
@@ -95,11 +95,11 @@ Neural networks (NNs) implemented on field-programmable gate arrays (FPGAs) prov
 </div>
 </div>
 
-# 💻 Project
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2026</div><img src='images/publication/Fornax.png' alt="sym" width="100%"></div></div>
+# 🔬 Project
+<div class='paper-box'><div class='paper-box-image'></div><img src='images/publication/Fornax.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A CGRA with SIMD and AGU]
+[Fornax: A Lightweight, Energy-Efficient Diffusion Model Accelerator Chip]
 
 High-Performance Computing Chip Scheduler Engineer
 
